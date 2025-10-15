@@ -1,0 +1,31 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.g.dart
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backend (Go)
+backend/*.exe
+backend/*.out
+backend/*.test
+backend/vendor/
+
+# Docker
+*.log
+
+# Misc
+.env
+.env.local
+*.tmp
